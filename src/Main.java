@@ -1,6 +1,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.print("Learning Java");
+        int studAge = 15;
+        double studGPA = 3.45;
+        char firstInitial = 'A';
+        String lastName = "Steffan";
     }
 }
